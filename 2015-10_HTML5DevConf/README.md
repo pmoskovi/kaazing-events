@@ -1,9 +1,9 @@
 # HTML5 Developer Conference
-** Oct 19-20, 2015 - San Francisco, Yerba Buena Center for the Arts **
+**Oct 19-20, 2015 - San Francisco, Yerba Buena Center for the Arts**
 
 ## Talk
 
-[**WebSocket Perspectives 2015 - Clouds, Streaming, Microservices and the Web of Things**](assets/WS-Clouds-Streaming-Microservices.pdf)
+[**WebSocket Perspectives 2015 - Clouds, Streaming, Microservices and the Web of Things**](assets/WS-Clouds-Streaming-Microservices.pd)
 **Speakers:** Frank Greco, Peter Moskovits
 
 **Abstract**
